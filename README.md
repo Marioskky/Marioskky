@@ -52,9 +52,10 @@
 ### 📫 Cómo contactarme
 ## 📫 Contacto
 
-[![mariosahuco097@gmail.com](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
+## 📫 Contacto
 
-- ✉️ 
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariosahuco097@gmail.com)
+
 - 💼 [LinkedIn]()
 
 ---
