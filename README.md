@@ -48,9 +48,10 @@
 - 🎾 [Fantasy Tennis DB](https://github.com/Marioskky/FantasyTennisDB) — Proyecto de base de datos simulando una app de tenis fantasy.
 
 ---
+<p align="center">
 ![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marioskky&show_icons=true&theme=dark&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marioskky&layout=compact&theme=dark)
-
+</p>
 ### 📫 Cómo contactarme
 
 ## 📫 Contacto
