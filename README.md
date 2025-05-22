@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://your-banner-link.com/banner.png" width="100%" />
+</p>
 ## 👋 ¡Hola! Soy Mario!
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con pasión por la programación y el desarrollo de software.  
@@ -50,7 +53,6 @@
 ---
 
 ### 📫 Cómo contactarme
-## 📫 Contacto
 
 ## 📫 Contacto
 
