@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://your-banner-link.com/banner.png" width="100%" />
-</p>
 ## 👋 ¡Hola! Soy Mario!
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con pasión por la programación y el desarrollo de software.  
@@ -58,7 +55,10 @@
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariosahuco097@gmail.com)
 
-- 💼 [LinkedIn]()
+  <a href="https://www.linkedin.com/in/tu-usuario-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
 
 ---
 
