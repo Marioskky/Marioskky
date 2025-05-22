@@ -35,7 +35,7 @@
 
 
   
-### ⚡ Dato curioso
+### ⚡ Datos sobre mí
 
 - 🎓 Tengo 19 años y estoy cursando el primer año de DAW.
 - 🧠 Siempre intento mantener mis datos ordenados… ¡aunque el escritorio diga lo contrario!
