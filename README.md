@@ -2,7 +2,7 @@
 
 ## 🚀 Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marioskky&show_icons=true&theme=radical)
 
 
 ## 👋 ¡Hola! Soy Mario!
