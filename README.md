@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy Mario Sahuco Guarinos
+## 👋 ¡Hola! Soy Mario!
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con pasión por la programación y el desarrollo de software.  
 💡 Me interesa especialmente el desarrollo web, bases de datos y la automatización con scripts.  
