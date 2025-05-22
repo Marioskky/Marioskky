@@ -1,4 +1,5 @@
 ![Mario Sahuco Guarinos](https://img.shields.io/badge/-Mario%20Sahuco%20Guarinos-4CAF50?style=for-the-badge&logo=github&logoColor=white)
+![Banner Mario](https://singlecolorimage.com/get/4CAF50/800x150.png&text=Mario%20Sahuco%20Guarinos)
 
 
 ## 👋 ¡Hola! Soy Mario!
