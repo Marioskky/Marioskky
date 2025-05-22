@@ -1,3 +1,10 @@
+# 👋 Hola, soy Mario Sahuco Guarinos
+
+## 🚀 Estudiante de Desarrollo de Aplicaciones Web (DAW)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+
+
 ## 👋 ¡Hola! Soy Mario!
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con pasión por la programación y el desarrollo de software.  
