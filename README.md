@@ -49,8 +49,8 @@
 
 ---
 <p align="center">
-![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marioskky&show_icons=true&theme=dark&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marioskky&layout=compact&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=Marioskky&show_icons=true&theme=dark&hide_title=true" alt="Mario's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marioskky&layout=compact&theme=dark" alt="Top Langs"/>
 </p>
 ### 📫 Cómo contactarme
 
