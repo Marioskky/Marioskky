@@ -1,8 +1,10 @@
-# 👋 Hola, soy Mario Sahuco Guarinos
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=radical" alt="GitHub Streak" />
+</p>
 
-## 🚀 Estudiante de Desarrollo de Aplicaciones Web (DAW)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marioskky&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 
 ## 👋 ¡Hola! Soy Mario!
