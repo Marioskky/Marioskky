@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=radical" alt="GitHub Streak" />
-</p>
+![Banner Mario](https://singlecolorimage.com/get/4CAF50/800x150.png&text=Mario%20Sahuco%20Guarinos)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 
 ## 👋 ¡Hola! Soy Mario!
