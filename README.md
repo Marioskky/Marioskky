@@ -50,8 +50,11 @@
 ---
 
 ### 📫 Cómo contactarme
+## 📫 Contacto
 
-- ✉️ mariosahuco097@gmail.com
+[![mariosahuco097@gmail.com](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
+
+- ✉️ 
 - 💼 [LinkedIn]()
 
 ---
